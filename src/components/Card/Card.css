@@ -1,0 +1,27 @@
+.card-inner {
+    border: solid 3px #6a6a6a;
+    border-radius: 10px;
+    /* box-shadow: 12px 10px 17px -2px #a7a5a5; */
+    box-shadow: 20px 16px 16px -7px #808080;
+    background-color: #ffff;
+    cursor: pointer;
+  }
+
+  .card-inner:hover {
+    border-radius: 10px;
+    box-shadow: none;
+    transform: translateY(5px);
+  }
+  
+  .btn {
+    border: solid 3px #6a6a6a;
+    border-radius: 10px;
+    box-shadow: 12px 10px 17px -2px #a7a5a5;
+    background-color: #ffff;
+  }
+  
+  .btn:hover {
+    border-radius: 10px;
+    box-shadow: none;
+    transform: translateY(5px);
+  }
